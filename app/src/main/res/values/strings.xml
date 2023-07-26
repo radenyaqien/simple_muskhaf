@@ -1,7 +1,4 @@
 <resources>
     <string name="app_name">Muskhaf</string>
-    <string name="next_page">Next Page</string>
-    <string name="previous_page">Previous Page</string>
-    <string name="page">Halaman %d</string>
-    <string name="search">cari halaman 1 sampai 604</string>
+    <string name="search">Cari halaman 1 sampai 604</string>
 </resources>
